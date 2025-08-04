@@ -1,0 +1,11 @@
+# llms.txt for varungarg.in
+
+summary: Varun Garg is a multidisciplinary architect and designer based in India. His practice focuses on culturally rooted, contemporary spaces for living, working, and gathering.
+
+website: https://www.varungarg.in
+sitemap: https://www.varungarg.in/sitemap.xml
+contact: contact@gargarchitects.com
+
+about: https://www.varungarg.in/about
+projects: https://www.varungarg.in/projects
+studio: https://www.varungarg.in/studio
